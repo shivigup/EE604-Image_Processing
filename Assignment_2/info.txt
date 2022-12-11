@@ -1,0 +1,1 @@
+Image filtering, enhancement and edge detection methods
