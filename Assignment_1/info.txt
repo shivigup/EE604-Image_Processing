@@ -1,0 +1,1 @@
+Image manipulation, usage of peculiar properties of human visual system and color image representations
